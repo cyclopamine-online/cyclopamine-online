@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning JAVASCRIPT!
 - 📫 How to reach me: hmm. 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: ze/hir
 - ⚡ Fun fact: starfish don't have brains! 
 
 <!---
